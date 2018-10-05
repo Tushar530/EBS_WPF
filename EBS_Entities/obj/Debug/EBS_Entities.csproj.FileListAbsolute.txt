@@ -1,0 +1,5 @@
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_Entities\bin\Debug\EBS_Entities.dll
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_Entities\bin\Debug\EBS_Entities.pdb
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_Entities\obj\Debug\EBS_Entities.dll
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_Entities\obj\Debug\EBS_Entities.pdb
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_Entities\obj\Debug\EBS_Entities.csprojResolveAssemblyReference.cache
