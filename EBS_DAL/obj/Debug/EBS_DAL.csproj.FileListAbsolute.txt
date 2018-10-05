@@ -1,0 +1,9 @@
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_DAL\bin\Debug\EBS_DAL.dll
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_DAL\bin\Debug\EBS_DAL.pdb
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_DAL\bin\Debug\EBS_Entities.dll
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_DAL\bin\Debug\EBS_Exception.dll
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_DAL\bin\Debug\EBS_Entities.pdb
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_DAL\bin\Debug\EBS_Exception.pdb
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_DAL\obj\Debug\EBS_DAL.csprojResolveAssemblyReference.cache
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_DAL\obj\Debug\EBS_DAL.dll
+D:\Group 3 Project\Employee_Travel_Booking_System\EBS_DAL\obj\Debug\EBS_DAL.pdb
